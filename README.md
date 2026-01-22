@@ -5,10 +5,10 @@ I build responsive and data-driven web applications using React, TypeScript, and
 
 ## About Me
 
-- 🎓 Software Development student (BYU–Idaho, Online)
-- 💻 Front-End focused: React, TypeScript, Tailwind CSS
-- 🔧 Backend experience with Node.js, Express, and MongoDB
-- 📚 Currently improving my skills in scalable frontend architectures and API integration
+- Software Development student (BYU–Idaho, Online)
+- Front-End focused: React, TypeScript, Tailwind CSS
+- Backend experience with Node.js, Express, and MongoDB
+- Currently improving my skills in scalable frontend architectures and API integration
 
 ## Technologies & Tools
 
